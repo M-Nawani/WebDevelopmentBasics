@@ -1,0 +1,22 @@
+    body{
+        background-color: white;
+    }
+
+    h1{
+        color: #66BFBF;
+    }
+
+    h3{
+        color: #66BFBF;
+        font: italic 1.2em "Fira Sans", serif;
+    }
+
+    h4{
+        color: #66BFBF;
+    }
+
+    hr{
+        border-style: solid;
+        border-color: #45b29a;
+        border-width: 1px
+    }
